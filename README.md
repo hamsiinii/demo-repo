@@ -1,3 +1,3 @@
 #demo
 
-this is a program to check triangular no. or not.
+this is a program to check triangular no. or not in java
